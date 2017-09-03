@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/TimboKZ/discord-spoiler-bot#readme",
   "dependencies": {
-    "canvas": "^1.6.3",
+    "canvas": "latest",
     "discord.io": "^2.4.2",
     "discord.js": "^11.1.0",
     "gifencoder": "^1.0.6"
